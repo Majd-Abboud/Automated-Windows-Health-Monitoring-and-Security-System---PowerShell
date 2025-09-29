@@ -1,0 +1,12 @@
+2025-09-24 21:49:12 - Part 2: CPU >80% for 30s — please take action (close heavy apps, check Task Manager).
+2025-09-24 21:49:12 - Part 3: terminating HeavyLoad (PID 3760) — >80% for ~1 minute
+2025-09-24 21:50:45 - Part 2: WARNING — memory >85% (93.7036780933978 %)
+2025-09-24 21:50:45 - Part 2: CRITICAL — C: free <15% (5.52936832931159 %)
+2025-09-24 21:50:45 - Part 3: deleted C:\Temp, freed about 35839.9453125 MB; C: now 75.5320013364171 % free
+2025-09-24 21:50:45 - Part 3: memory high — investigate running programs/services (>93.7036780933978 %)
+2025-09-24 21:52:16 - Part 4: [SECURITY ALERT] Multiple failed login attempts detected for user: majd , identified by Majd Abboud - 991589924 on 2025-09-24 21:52:16
+2025-09-24 21:52:16 - Part 4: [SECURITY ALERT] Account lockout detected for user: majd , identified by Majd Abboud - 991589924 on 2025-09-24 21:52:16
+2025-09-24 21:52:16 - Part 4: [SECURITY ALERT] Unexpected service stop: Print Spooler , identified by Majd Abboud - 991589924 on 2025-09-24 21:52:16
+
+These were logs from when i created the video
+
